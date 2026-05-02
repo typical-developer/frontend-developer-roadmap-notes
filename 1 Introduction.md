@@ -1,7 +1,7 @@
 
 [Reference](https://roadmap.sh/frontend)
 #### What's a Frontend Developer
-This is a professional who uses `HTML`, `CSS`, `JavaScript` to design and build the visual and interactive elements of websites and applications that users engage with directly
+This is a professional who uses `HTML`, `CSS`, `JavaScript` to design and build the visual and interactive elements of websites and applications that users engage with directly.
 
 ---
 #### (Main) Roles of a role Frontend Developer
