@@ -35,8 +35,9 @@ This is a professional who uses `HTML`, `CSS`, `JavaScript` to design and build 
 ---
 #### Related Content
 
-**Roadmap Diagram**
-[[frontend.pdf]]
+[[Frontend Roadmap Diagram.pdf]]
+[[What Front End Programming Languages Should You Learn]]
+
 
 
 
