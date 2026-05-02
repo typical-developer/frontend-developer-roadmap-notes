@@ -1,4 +1,4 @@
-# Frontend Developer Roadmap Notes
+# Frontend Developer Roadmap Notes (Recommended for Intermediates)
 
 Structured Obsidian knowledge base for learning modern frontend development through the [roadmap.sh](https://roadmap.sh) frontend developer roadmap.
 
